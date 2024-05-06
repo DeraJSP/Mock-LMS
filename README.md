@@ -1,2 +1,1 @@
-# Mock-LMS
-Mock repo for the lms project
+checking to see if readme will be duplicated when checking out to a new branch
